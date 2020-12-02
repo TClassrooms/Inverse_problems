@@ -16,14 +16,6 @@ Esta página está hospedada em um repositório no GitHub. Um repositório é um
 * [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 
-**Agradecimento Especial:** 
-
-* [Dra. Valeria Barbosa ](https://github.com/valcris)
-
-* [Dr. Vanderlei C. Oliveira Jr.](https://github.com/birocoles)
-
-
-
 <img src = 'https://media.giphy.com/media/3o6UB5RrlQuMfZp82Y/giphy.gif' width = 700>
 
 **fonte:** [GIPHY](https://media.giphy.com/media/tvGOBZKNEX0ac/giphy.gif)
