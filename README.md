@@ -1,6 +1,6 @@
 # Inverse_problems
 
-## Estudo particular e individual sobre problemas inversos:
+## Estudo sobre problemas inversos:
  Esse estudo destina-se inicialmente a reunião das minhas notas de estudos pessoais sobre problemas inversos e materiais de disciplinas passadas.
 
 **Responsável**: [Carreira,V.R.](http://lattes.cnpq.br/9663791782095105)
